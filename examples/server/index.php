@@ -7,10 +7,11 @@ session_start();
 $config = [
     'authentication' => [
         'ad' => [
-            'client_id' => '',
-            'client_secret' => '',
+            'client_id' => '5f10c674-2fbb-4daf-8c7d-3a0110d56845',
+            'client_secret' => 'f9s.sOOT-kXnL2FfY23x_AZT90kh_zY.8L',
             'enabled' => '1',
-            'directory' => ''
+            'directory' => 'common'.
+            'return_url' => 'https://github.com/srish072/active-directory/blob/develop/examples/server'
         ]
     ]
 ];
